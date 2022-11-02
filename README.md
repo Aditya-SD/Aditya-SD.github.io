@@ -1,2 +1,2 @@
 # aditya-sd.github.io
-Webpage of Aditya S Deshpande (IIT Kharagpur)
+Webpage of Aditya Deshpande (IIT Kharagpur)
